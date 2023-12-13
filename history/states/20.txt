@@ -1,0 +1,34 @@
+
+state={
+	id=20
+	name="STATE_20"
+	manpower = 8836112
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = RUE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = RUE
+	}
+
+	provinces={
+		65 73 106 251 257 275 276 292 295 298 331 337 420 484 602 1562 1818 1901 1950 1964 2055 2173 2249 2895 2986 3574 3726 3988 4028 4087 4267 4302 4313 4374 4525 6747 6860 6875 7004 7364 7577 
+	}
+	local_supplies=0.0 
+}

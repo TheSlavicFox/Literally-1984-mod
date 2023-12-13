@@ -1,0 +1,34 @@
+
+state={
+	id=46
+	name="STATE_46"
+	manpower = 16610812
+	
+	state_category = large_town
+	resources={
+		aluminium=24
+		chromium=32
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = RUE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RUE
+	}
+
+	provinces={
+		143 149 154 160 175 188 369 380 408 430 434 447 505 507 2476 2562 2584 2754 2783 3029 3361 3427 3437 3472 3790 3970 5346 6004 6792 6817 6821 6825 6828 6878 6937 6947 7014 7045 7074 7120 7160 7162 7457 
+	}
+	local_supplies=0.0 
+}

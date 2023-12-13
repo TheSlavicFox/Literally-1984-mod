@@ -1,0 +1,34 @@
+
+state={
+	id=82
+	name="STATE_82"
+	manpower = 11139883
+	
+	state_category = town
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=25
+		tungsten=0
+	}
+
+	history={
+		owner = RUE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = RUE
+	}
+
+	provinces={
+		9 25 411 431 469 497 549 724 797 1026 1203 2156 2225 2290 2295 2537 2805 4178 6837 6868 6922 6928 7077 7116 8260 8427 9477 13075 13080 13081 13084 13089 
+	}
+	local_supplies=0.0 
+}

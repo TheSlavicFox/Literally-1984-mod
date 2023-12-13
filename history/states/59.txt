@@ -1,0 +1,34 @@
+
+state={
+	id=59
+	name="STATE_59"
+	manpower = 9122664
+	
+	state_category = rural
+	resources={
+		aluminium=0
+		chromium=18
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = RUE
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = RUE
+	}
+
+	provinces={
+		238 254 290 2280 2339 2370 2394 2405 2407 2413 2441 2446 2545 2573 2639 3421 3739 3772 3890 4030 4066 4086 4150 4176 4227 4243 4358 4552 4573 4581 4599 4664 4669 4690 4746 4767 4819 4821 4866 4874 4877 4889 4903 4947 5051 5067 5427 9832 9873 10291 10557 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=51
+	name="STATE_51"
+	manpower = 15191199
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=4
+		rubber=0
+		steel=0
+		tungsten=0
+	}
+
+	history={
+		owner = RUE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 1
+			industrial_complex = 2
+			
+			183 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RUE
+	}
+
+	provinces={
+		183 381 410 427 444 451 2615 2997 3268 3343 3375 3515 3680 5042 5282 5401 5486 5548 5613 5660 5792 5800 6780 7241 7337 7707 7733 7765 8176 8291 8353 8626 9032 9193 9320 9348 9471 9604 9885 13149 
+	}
+	local_supplies=0.0 
+}

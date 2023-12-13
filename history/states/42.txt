@@ -1,0 +1,37 @@
+
+state={
+	id=42
+	name="STATE_42"
+	manpower = 19719407
+	
+	state_category = large_city
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=20
+		tungsten=0
+	}
+
+	history={
+		owner = RUE
+		buildings = {
+			infrastructure = 3
+			air_base = 0
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 2
+			131 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = RUE
+	}
+
+	provinces={
+		131 151 173 354 425 446 450 639 811 2524 2638 2836 2897 4980 5006 5016 5146 5152 6778 6781 6814 6874 6879 6885 7035 7070 7081 7134 7219 7422 7608 7611 8245 
+	}
+	local_supplies=0.0 
+}
