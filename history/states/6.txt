@@ -15,7 +15,7 @@ state={
 	}
 
 	history={
-		owner = RUE
+		owner = ALD
 		buildings = {
 			infrastructure = 2
 			air_base = 0
@@ -24,7 +24,7 @@ state={
 			
 			
 		}
-		add_core_of = RUE
+		add_core_of = ALD
 	}
 
 	provinces={
